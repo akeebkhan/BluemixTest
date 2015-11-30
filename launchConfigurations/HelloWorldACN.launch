@@ -1,0 +1,16 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.eu-gb.bluemix.net",
+      "Org": "akeeb.khan@hotmail.co.uk",
+      "Space": "dev"
+    },
+    "Name": "HelloWorldACN",
+    "Instrumentation": {
+      "domain": "eu-gb.mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
